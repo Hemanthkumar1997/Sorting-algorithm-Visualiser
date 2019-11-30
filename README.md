@@ -11,6 +11,7 @@ sorts the random numbers generated using different sorting algorithms and is vis
 # Algorithms Description
 
 ## Bubble sort
+```
   begin BubbleSort(list)  
    for all elements of list  
       if list[i] > list[i+1]  
@@ -19,6 +20,7 @@ sorts the random numbers generated using different sorting algorithms and is vis
    end for    
    return list  
  end BubbleSort  
+```
 
 ## selection sort
    Step 1 − Set MIN to location 0  
